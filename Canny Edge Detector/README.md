@@ -15,6 +15,7 @@ This project implements a **Canny Edge Detector**, a popular edge detection algo
 To run the Canny Edge Detector, you'll need to install the following libraries:
 ```bash
 pip install numpy opencv-python matplotlib seaborn scipy
+```
 
 
 ## References
