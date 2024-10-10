@@ -15,3 +15,12 @@ This project implements a **Canny Edge Detector**, a popular edge detection algo
 To run the Canny Edge Detector, you'll need to install the following libraries:
 ```bash
 pip install numpy opencv-python matplotlib seaborn scipy
+
+
+## References
+
+1. [Stanford CS131 Notes on Image Processing](http://vision.stanford.edu/teaching/cs131_fall1718/files/06_notes.pdf)
+2. [Wikipedia - Canny Edge Detector](https://en.wikipedia.org/wiki/Canny_edge_detector)
+3. Gonzalez, R. C., & Woods, R. E. (2002). *Digital Image Processing* (2nd ed.). Prentice Hall. [Google Books link](https://books.google.co.in/books?hl=en&lr=&id=a62xQ2r_f8wC&oi=fnd&pg=PA19&dq=digital+image+processing&ots=3B1yO1nE1D&sig=UPA_8QAuKPbJpSHDKw84BniVGFs&redir_esc=y#v=onepage&q=digital%20image%20processing&f=false)
+4. [OpenCV Documentation: Feature Detection](https://docs.opencv.org/4.x/dd/d1a/group__imgproc__feature.html#ga04723e007ed888ddf11d9ba04e2232de)
+
