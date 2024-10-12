@@ -18,9 +18,9 @@ $$
 
 where the gradient covariance matrix **M** is:
 
-$$
-M = \sum_{s,t} w(s,t) \begin{bmatrix}I_x^2&I_x I_y\\I_xI_y&I_y^2\end{bmatrix}
-$$
+```math
+M = \sum_{s,t} w(s,t) \begin{bmatrix}I_x^2 & I_x I_y \\ I_x I_y & I_y^2 \end{pmatrix}
+```
 
 
 ### Eigenvalue Analysis
