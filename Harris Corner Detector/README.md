@@ -12,9 +12,9 @@ $$
 
 By expanding the intensity differences using a Taylor series and simplifying, we obtain the matrix form:
 
-$$
+```math
 F(x, y) = \begin{bmatrix} x & y \end{bmatrix} M \begin{bmatrix} x \\ y \end{bmatrix}
-$$
+```
 
 where the gradient covariance matrix **M** is:
 
